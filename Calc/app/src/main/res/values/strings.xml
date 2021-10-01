@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CALCC</string>
+    <string name="add">ADD</string>
+    <string name="sub">SUB</string>
+    <string name="mul">MUL</string>
+    <string name="div">DIV</string>
+    <string name="mod">MOD</string>
+    <string name="string_mul" />
+    <string name="enter_number_2">Enter Number 2</string>
+    <string name="enter_number_1">Enter Number 1</string>
+    <string name="result_will_be_here">Result will be here</string>
+</resources>
